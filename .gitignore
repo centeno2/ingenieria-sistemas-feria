@@ -8,3 +8,15 @@ npm-debug.log*
 .env.*.local
 *.log
 coverage
+
+.next
+node_modules
+out
+npm-debug.log*
+.DS_Store
+.env
+.env.local
+.env.*.local
+*.log
+coverage
+tsconfig.tsbuildinfo
