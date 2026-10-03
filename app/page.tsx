@@ -254,7 +254,6 @@ function Hero() {
     <section className="hero" id="inicio">
       <div className="hero-grid" aria-hidden="true" />
       <div className="hero-copy">
-        <p className="eyebrow"><span /> FERIA TECNOLÓGICA · UNAN-MANAGUA</p>
         <h1>Ingeniería<br /><em>en Sistemas</em></h1>
         <p className="hero-statement">Diseñamos sistemas que conectan <strong>personas, datos y tecnología</strong> para convertir problemas reales en soluciones.</p>
         <div className="hero-actions">
